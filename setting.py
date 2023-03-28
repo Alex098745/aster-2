@@ -1,0 +1,4 @@
+SIZE_X = 500
+SIZE_Y = 700
+
+FPS = 60
